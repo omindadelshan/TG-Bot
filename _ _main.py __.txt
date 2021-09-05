@@ -1,8 +1,0 @@
-import os
-import telebot
-
-bot=telebot.Telebot(API Key Her)
-@bot.massege_handler(command[start]) 
-d̥ͦe̥ͦf̥ͦ.(massege):
-  reply_to(massege,"hi i amm manibot)
-bot.polling()
